@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gurjar</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h3 align="center">Full Stack Java Developer | Building secure, production-grade systems with Spring Boot & React</h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ankitdoi-coder">
@@ -17,16 +17,32 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [Smart Hospital Management System](https://github.com/ankitdoi-coder/Smart_Hospital_Management_System.git)
-- 🌱 I'm currently learning **Kafka & WebSocket**
-- 👯 I'm looking to collaborate on [Smart Hospital Management System](https://github.com/ankitdoi-coder/Smart_Hospital_Management_System.git)
-- 🤝 I'm looking for help with [Movie Platform](https://github.com/ankitdoi-coder/Movie-Downloding-Platform.git)
-- 👨‍💻 All of my projects are available at [https://ankitgurjar.netlify.app/](https://ankitgurjar.netlify.app/)
-- 📝 I regularly write articles on [https://x.com/coderankit82](https://x.com/coderankit82)
-- 💬 Ask me about **Spring, SpringBoot, React, Angular, etc**
-- 📫 How to reach me: **ankitdoi82@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qDSgtNLy1L9-pObBa9kupuDP_TDwen4h/view?usp=sharing)
-- ⚡ Fun fact: **I think I am Funny.**
+I'm a Full Stack Java Developer focused on building systems the way they're built in production — JWT-secured APIs, role-based access control, verified third-party integrations, and clean separation between layers, not just CRUD that happens to work.
+
+- 🔭 **Currently building:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Smart_Hospital_Management_System.git) — a full stack healthcare platform with JWT auth, OAuth2 social login, role-based dashboards (Patient / Doctor / Admin), and a **Razorpay payment gateway integration** with server-side HMAC signature verification on every transaction.
+- 🌱 **Currently deepening:** Kafka & WebSocket, for event-driven and real-time system design.
+- 👯 **Open to collaborating on:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Smart_Hospital_Management_System.git)
+- 🤝 **Looking for help with:** [Movie Platform](https://github.com/ankitdoi-coder/Movie-Downloding-Platform.git)
+- 👨‍💻 **Portfolio:** [ankitgurjar.netlify.app](https://ankitgurjar.netlify.app/)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1qDSgtNLy1L9-pObBa9kupuDP_TDwen4h/view?usp=sharing)
+- 💬 **Ask me about:** Spring Boot, Spring Security, JWT/OAuth2, REST API design, React, Redux, payment gateway integrations
+- 📫 **Reach me at:** ankitdoi82@gmail.com
+
+---
+
+## 🏆 Featured Project
+
+### 🏥 Smart Hospital Management System
+A production-grade full stack healthcare platform demonstrating end-to-end ownership — from database schema to a deployed, role-protected UI.
+
+- **Stateless JWT authentication** with role-based access control (`PATIENT` / `DOCTOR` / `ADMIN`)
+- **Google OAuth2** social login alongside standard credential auth
+- **Razorpay payment gateway** — real UPI / Card / Netbanking checkout, with payment status verified server-side via HMAC-SHA256 signature before any billing record is marked paid (client is never trusted to self-report payment success)
+- **Global exception handling** with a consistent JSON error contract across the entire API
+- **Domain-driven package structure** on the backend, Redux Toolkit + service-layer pattern on the frontend
+- Fully documented via Swagger / OpenAPI
+
+🔗 [Backend Repo](https://github.com/ankitdoi-coder/HealthCare-Backend) · [Frontend Repo](https://github.com/ankitdoi-coder/HealthCare-Frontend)
 
 ---
 
@@ -52,6 +68,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth2.0-eb5424?style=for-the-badge&logo=oauth2&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-05122G?style=for-the-badge&logo=icloud&logoColor=white)
