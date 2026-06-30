@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gurjar</h1>
 <h3 align="center">Full Stack Java Developer | Building secure, production-grade systems with Spring Boot & React</h3>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ankitdoi-coder">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitdoi-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="ankitdoi-coder" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/coderankit82">
@@ -51,7 +47,7 @@ A production-grade full stack healthcare platform demonstrating end-to-end owner
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderankit82)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-gurjar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankit_sde)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/programmerankit)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProgrammerAnkit)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ankitdoi82)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ankitdoi0)
 
@@ -108,5 +104,12 @@ A production-grade full stack healthcare platform demonstrating end-to-end owner
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitdoi-coder&theme=react-dark" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdoi-coder&show_icons=true&theme=radical&locale=en&layout=compact" alt="ankitdoi-coder" />
 </p>
+
+
