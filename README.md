@@ -20,7 +20,7 @@ I'm a Full Stack Java Developer focused on building systems the way they're buil
 - 👯 **Open to collaborating on:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Smart_Hospital_Management_System.git)
 - 🤝 **Looking for help with:** [Movie Platform](https://github.com/ankitdoi-coder/Movie-Downloding-Platform.git)
 - 👨‍💻 **Portfolio:** [ankitgurjar.netlify.app](https://ankitgurjar.netlify.app/)
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1qDSgtNLy1L9-pObBa9kupuDP_TDwen4h/view?usp=sharing)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1DADIW84ctR5iGQ1TkhtwQvlZiKFDjdkq/view?usp=sharing)
 - 💬 **Ask me about:** Spring Boot, Spring Security, JWT/OAuth2, REST API design, React, Redux, payment gateway integrations
 - 📫 **Reach me at:** ankitdoi82@gmail.com
 
