@@ -111,7 +111,7 @@ Delivered 3 full-stack CA (Chartered Accountant) firm portals end-to-end using A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdoi-coder&theme=radical" alt="ankitdoi-coder" />
+  <img src="https://streak-stats.demolab.com/?user=ankitdoi-coder&theme=radical" alt="ankitdoi-coder" />
 </p>
 
 <p align="center">
