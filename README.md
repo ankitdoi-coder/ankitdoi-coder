@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gurjar</h1>
-<h3 align="center">Java Backend Developer | Production-grade Spring Boot systems — security, payments, containerization, AI integration</h3>
+<h3 align="center">Java Backend Developer | Production-grade Spring Boot systems — security, payments, real-time systems, containerization, AI integration</h3>
 
 <p align="center">
   <a href="https://twitter.com/coderankit82">
@@ -11,15 +11,15 @@
 
 ## 🚀 About Me
 
-Java Backend Developer focused on building systems the way they're actually built in production: JWT-secured APIs with real server-side session revocation, payment flows that cryptographically verify themselves, containerized and reproducible deployments, and guardrailed AI features — not just CRUD that happens to work.
+Java Backend Developer focused on building systems the way they're actually built in production: JWT-secured APIs with real server-side session revocation, payment flows that cryptographically verify themselves, real-time features over WebSocket, containerized and reproducible deployments (Docker Compose, deployed to Hostinger VPS), and guardrailed AI features — not just CRUD that happens to work.
 
-- 🔭 **Currently building:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Hospital_System_Backend) — a full-stack healthcare platform: JWT + Redis-backed auth, OAuth2 login, role-based dashboards (Patient/Doctor/Admin), Razorpay payments with HMAC verification, a fully Dockerized deployment (backend + MySQL + Redis), and an AI Health Assistant powered by Groq's Llama 3.3.
-- 🌱 **Currently deepening:** Kafka & WebSocket, for event-driven and real-time system design.
+- 🔭 **Currently building:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Hospital_System_Backend) — a full-stack healthcare platform: JWT + Redis-backed auth, OAuth2 login, role-based dashboards (Patient/Doctor/Admin), Razorpay payments with HMAC verification, a fully Dockerized deployment (backend + MySQL + Redis) orchestrated via Docker Compose and deployed on Hostinger, and an AI Health Assistant powered by Groq's Llama 3.3.
+- 🌱 **Currently deepening:** Kafka, for event-driven system design.
 - 👯 **Open to collaborating on:** [Smart Hospital Management System](https://github.com/ankitdoi-coder/Hospital_System_Backend)
 - 🤝 **Looking for help with:** [Movie Platform](https://github.com/ankitdoi-coder/Movie-Downloding-Platform.git)
 - 👨‍💻 **Portfolio:** [ankitgurjar.netlify.app](https://ankitgurjar.netlify.app/)
 - 📄 **Resume:** [View here](https://drive.google.com/file/d/1w3slOydgaM4NqBdt_77HARwdusu9aEiu/view?usp=sharing)
-- 💬 **Ask me about:** Spring Boot, Spring Security, JWT/OAuth2, REST API design, Docker, LLM API integration, React, Redux, payment gateway integrations
+- 💬 **Ask me about:** Spring Boot, Spring Security, JWT/OAuth2, REST API design, WebSocket, Docker & Docker Compose, Hostinger VPS deployment, LLM API integration, React, Redux, payment gateway integrations
 - 📫 **Reach me at:** ankitdoi82@gmail.com
 
 ---
@@ -33,7 +33,9 @@ A production-grade full-stack healthcare platform — 45+ REST endpoints, packag
 - 🚪 **Redis-backed token blacklisting** — real server-side logout for stateless JWTs, closing the gap where a token otherwise stays valid until natural expiry
 - 💳 **Razorpay payment gateway** — full order lifecycle (create → checkout → verify) with server-side HMAC-SHA256 signature verification; the backend, never the client, is the source of truth for payment status
 - 💰 **Billing & revenue module** — full payment audit trail across 200+ records, real-time daily/monthly revenue analytics for admins
-- 🐳 **Fully containerized** — Spring Boot + MySQL + Redis all run via a multi-stage Docker build and Docker Compose, with health-checked startup ordering and persistent volumes; spin up the entire stack with one command
+- 🔌 **WebSocket-based real-time updates** — live notifications and status updates pushed to role-specific dashboards without polling
+- 🐳 **Fully containerized** — Spring Boot + MySQL + Redis all run via a multi-stage Docker build, orchestrated with Docker Compose for health-checked startup ordering and persistent volumes; spin up the entire stack with one command
+- ☁️ **Deployed on Hostinger** — production hosting and container lifecycle maintained on a Hostinger VPS
 - 🤖 **AI Health Assistant** — a guardrailed chatbot powered by Groq's Llama 3.3 (OpenAI-compatible API), with a system prompt restricting it to general health guidance only, integrated as a floating widget on the patient dashboard
 - 🔔 Dual-channel (in-app + email) notification system, doctor-approval workflow, secure password-reset flow
 - 🛡️ Global exception handling with a consistent JSON error contract across the entire API
@@ -74,6 +76,7 @@ Delivered 3 full-stack CA (Chartered Accountant) firm portals end-to-end using A
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth2.0-eb5424?style=for-the-badge&logo=oauth2&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLM_API-F55036?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -94,9 +97,11 @@ Delivered 3 full-stack CA (Chartered Accountant) firm portals end-to-end using A
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
